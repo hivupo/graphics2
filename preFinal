@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
 
-  "width":500,
-  "height": 3950,
+  "width":850,
+  "height": 4800,
   "data": {
     "values": [
      {
@@ -3401,7 +3401,7 @@
 		{"field": "Назва проекту", "type": "nominal" }, 
 		{"field": "Бюджет", "type": "quantitative", "format": "(,.2r"} ],
     "opacity": {"value": 1},
-    "size": {"value": 280}
+    "size": {"value": 440}
 
   },
   "config": {"view": {"stroke": ""},"range": {
